@@ -10,7 +10,7 @@ Content-Type: application/json
 
 ### find user
 
-GET http://localhost:3000/auth/15
+GET http://localhost:3000/auth/4
 
 
 ### Find all users with a given email
